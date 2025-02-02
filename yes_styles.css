@@ -6,8 +6,12 @@ body {
     margin: 0;
     background-color: #f9e3e3;
     font-family: 'Arial', sans-serif;
+    font-weight: bold;
 }
-
+.thanku {
+    font-weight: bold;
+    font-size: larger;
+}
 .container {
     text-align: center;
 }
